@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Backend Technology**
 
-- 👯 I’m looking to collaborate on **Frontend and backend devs**
+- 👯 I’m looking to collaborate on **Full Stacks Projects**
 
 - 📝 I regularly write articles on [https://lakshmidevi.hashnode.dev/](https://lakshmidevi.hashnode.dev/)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,CORE JAVA,PYTHON,C,Algos in AIML**
+- 💬 Ask me about **HTML,CSS,Javascript,Core Java,Python,C,Machine Learning Algorithms,CS Fundamentals**
 
 - 📫 How to reach me **lakshmidevi.sarikonda@gmail.com**
 
@@ -24,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/lakshmi-devi1dev." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lakshmi-devi1dev." height="30" width="40" /></a>
-<a href="https://hashnode.com/https://lakshmidevi.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://lakshmidevi.hashnode.dev/" height="30" width="40" /></a>
+
+<a href="https://hashnode.com/https://lakshmidevi.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@lakshmidevi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
