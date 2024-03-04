@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **React projects**
 
-- 🌱 I’m currently learning **React,Node**
+- 🌱 I’m currently learning **Backend Technology**
 
 - 👯 I’m looking to collaborate on **Frontend and backend devs**
 
