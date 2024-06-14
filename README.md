@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmi-devi1&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi-devi1" /> </p>
 
 
-- 🔭 I’m currently working on **React projects**
+- 🔭 I’m currently working on **Frontend Projects**
 
 - 🌱 I’m currently learning **Backend Technology**
 
