@@ -21,8 +21,6 @@
 <p align="left">
 
 <a href="https://hashnode.com/@lakshmidevi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@lakshmidevi" height="30" width="40" /></a>
-<a href="https://twitter.com/lakshmi99899017" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-links/410/twitter-256.png" alt="https://twitter.com/lakshmi99899017" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
