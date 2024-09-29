@@ -17,7 +17,6 @@
 - 📫 How to reach me **lakshmidevi.sarikonda@gmail.com**
 
 - ⚡ Fun fact **Public Speaker**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
